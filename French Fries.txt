@@ -1,0 +1,6 @@
+Small French Fries
+60
+Medium French Fries
+75
+Large French Fries
+95

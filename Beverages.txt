@@ -1,0 +1,56 @@
+Maaza
+23
+Coke McFloat
+25
+Fanta McFloat
+25
+Sprite McFloat
+25
+Coke Medium
+55
+Coke Large
+65
+Fanta Medium
+55
+Fanta Large
+65
+Sprite Medium
+55
+Sprite Large
+65
+Cold Coffee
+55
+Black Coffee
+48
+Fresh Brew Coffee
+52
+Diet Coke(300Ml)
+50
+Ice Tea Small
+39
+Ice Tea Medium
+50
+Tea
+37
+Black Tea
+32
+Coke Pet Bottle
+25
+Minute Maid
+57
+Cold Coffee
+45
+Small McShakes Chocolate
+60
+Medium McShakes Chocolate
+70
+Large McShakes Chocolate
+80
+Small McShakes Strawberry
+60
+Medium McShakes Strawberry
+70
+Large McShakes Strawberry
+80
+Packaged Drinking Water
+26.60

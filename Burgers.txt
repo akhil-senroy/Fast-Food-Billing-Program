@@ -1,0 +1,26 @@
+McAloo Tikki
+32
+McEgg
+35
+McVeggie
+70
+McSpicyPaneer
+120
+McChicken
+89
+McSpicy Chicken
+128
+Masala Grill Veg
+50
+Masala Grill Chicken
+63
+Chicken Mcgrill
+46
+Filet-O-Fish
+108
+Chicken Maharaja Mac
+110
+Grilled Chicken Royale
+135
+Mc Paneer Royale
+125
